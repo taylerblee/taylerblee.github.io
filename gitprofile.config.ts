@@ -81,7 +81,7 @@ const CONFIG = {
       'https://taylerblee.github.io/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Academic Writing', 'Python', 'Natural History Curation'
   ],
   experiences: [
     {
