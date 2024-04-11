@@ -78,7 +78,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://taylerblee.github.io/pdfs/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://taylerblee.github.io/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Bioinformatics', 'Teaching'
