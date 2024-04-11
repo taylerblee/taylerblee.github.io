@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    inaturalist 'bumble_blee',
+    inaturalist: 'bumble_blee',
     linkedin: '',
     twitter: '',
     mastodon: '',
