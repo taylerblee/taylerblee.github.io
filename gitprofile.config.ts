@@ -85,18 +85,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      company: 'California State University, Stanislaus',
+      position: 'Collections Manager Assistant',
+      from: '2022',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'Modesto Junior College',
+      position: 'Math Supplemental Instruction Leader',
+      from: '2018',
+      to: '2019',
+      companyLink: '',
     },
   ],
   certifications: [
