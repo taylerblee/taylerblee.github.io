@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tayler Blee',
+    title: 'Tayler Blee\'s Website',
     description: '',
     imageURL: '',
   },
