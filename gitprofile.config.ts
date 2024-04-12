@@ -63,7 +63,7 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'blee.tle',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
