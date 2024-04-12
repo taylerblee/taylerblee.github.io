@@ -78,7 +78,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://taylerblee.github.io/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Academic Writing', 'Python', 'Natural History Curation'
