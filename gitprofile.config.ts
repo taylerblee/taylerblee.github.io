@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Natural History Collection Experience',
           description:
-            'As assistant collections manager, I maintained the organization and conservation of the teaching collection at Stanislaus State University! I also made significant contributions to the digital catalog, especially for insects and birds.',
+            'This poster shows my research efforts as assistant collections manager. I maintained the organization and conservation of the teaching collection at Stanislaus State University while making significant contributions to the digital catalog, especially for insects and birds.',
           imageUrl:
             'https://github.com/taylerblee/taylerblee.github.io/raw/main/images/beetles.png',
           link: 'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/RCF%20-%20Poster%20Natural%20History%20Collection.pptx.pdf',
