@@ -38,7 +38,7 @@ const CONFIG = {
             'I gave a three-minute presentation on Spotted Lanternflies for twenty-five of my peers in STEM. I was voted to have the best-looking slide.',
           imageUrl:
             'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/FINAL%20-%20Spotted%20Lanterfly%20Presentation.pdf',
-          link: 'https://example.com',
+          link: 'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/FINAL%20-%20Spotted%20Lanterfly%20Presentation.pdf',
         },
         {
           title: 'Natural History Collection Experience',
@@ -46,7 +46,7 @@ const CONFIG = {
             'As assistant collections manager, I maintained the organization and conservation of the teaching collection at Stanislaus State University! I also made significant contributions to the digital catalog, especially for insects and birds.',
           imageUrl:
             'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/RCF%20-%20Poster%20Natural%20History%20Collection.pptx.pdf',
-          link: 'https://example.com',
+          link: 'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/RCF%20-%20Poster%20Natural%20History%20Collection.pptx.pdf',
         },
       ],
     },
@@ -147,11 +147,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'pastel',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
