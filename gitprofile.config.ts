@@ -29,23 +29,23 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Presentations',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Award-Winning Visual',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I gave a three-minute presentation on Spotted Lanternflies for twenty-five of my peers in STEM. I was voted to have the best-looking slide.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/FINAL%20-%20Spotted%20Lanterfly%20Presentation.pdf',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Natural History Collection Experience',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'As assistant collections manager, I maintained the organization and conservation of the teaching collection at Stanislaus State University! I also made significant contributions to the digital catalog, especially for insects and birds.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/RCF%20-%20Poster%20Natural%20History%20Collection.pptx.pdf',
           link: 'https://example.com',
         },
       ],
@@ -81,7 +81,7 @@ const CONFIG = {
       'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/DemoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Academic Writing', 'Python', 'Natural History Curation'
+    'Python', 'R', 'Insect Pinning', 'Ornithological Skin Preparation', 'Natural History Collection Curation'
   ],
   experiences: [
     {
@@ -101,45 +101,36 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
+      institution: 'California State University, Stanislaus',
+      degree: 'BS Biology',
+      from: '2022',
       to: '2024',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: 'Modesto Junior College',
+      degree: 'Associates for Transfer',
+      from: '2017',
+      to: '2020',
     },
   ],
   publications: [
     {
-      title: 'Effects of short-term experimental manipulation of captive social environment on uropygial gland microbiome and preen oil volatile composition',
+      title: '',
       conferenceName: '',
-      journalName: 'Frontiers in Ecology and Evolution',
-      authors: 'Danielle J. Whittaker, Amruth Atyam, Nathan A. Burroughs, Jonathan M. Greenberg, Travis J. Hagey, Milos V. Novotny, Helena A. Soini, Kevin R. Theis, Tricia A. Van Laar, and Joel W. G. Slade',
-      link: 'https://www.frontiersin.org/articles/10.3389/fevo.2022.1027399/full',
-      description:
-        'Avian preen oil, secreted by the uropygial gland, is an important source of volatile compounds that convey information about the sender’s identity and quality, making preen oil useful for the recognition and assessment of potential mates and rivals. Although intrinsic factors such as hormone levels, genetic background, and diet can affect preen oil volatile compound composition, many of these compounds are not the products of the animal’s own metabolic processes, but rather those of odor-producing symbiotic microbes. Social behavior affects the composition of uropygial microbial communities, as physical contact results in microbe sharing. We experimentally manipulated social interactions in captive dark-eyed juncos (Junco hyemalis) to assess the relative influence of social interactions, subspecies, and sex on uropygial gland microbial composition and the resulting preen oil odor profiles',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: '',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+        '',
+    }
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
