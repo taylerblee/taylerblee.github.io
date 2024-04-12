@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Award-Winning Visual',
           description:
-            'I gave a three-minute presentation on Spotted Lanternflies for twenty-five of my peers in STEM. I was voted to have the best-looking slide.',
+            'I was voted for the best-looking slide when I gave a three-minute presentation on Spotted Lanternflies to my peers in STEM.',
           imageUrl:
             'https://github.com/taylerblee/taylerblee.github.io/raw/main/images/SLF.png',
           link: 'https://github.com/taylerblee/taylerblee.github.io/raw/main/pdf/FINAL%20-%20Spotted%20Lanterfly%20Presentation.pdf',
